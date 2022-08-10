@@ -1,1 +1,2 @@
 # Investigate-Business-Hotel-Using-Data-Visualization
+It is very important for a company to always analyze its business performance. On this occasion, I will further explore the business in the hospitality sector. My focus is to find out how the customers behave in hotel reservations, and their relationship to the cancellation rate of the reservations. The results of the insights I find will be presented in the form of visualization to make it easier to understand and more persuasive.
