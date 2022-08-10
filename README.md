@@ -27,6 +27,7 @@ Dropping, imputations, changing data types and values were conducted for data pr
 * As for resort hotel, the highest cancellation rate is around 3 weeks stay duration, about 35.07%
 * Most reservations are made for around 1 weeks stay duration.
 ### Impact Analysis of Lead Time on Hotel Bookings Cancellation Rate
+![image](https://user-images.githubusercontent.com/108931989/183959067-2bd43f97-bb8b-4aad-bef5-6237201cb6e5.png)
 * Lead time is the range of time from booking date to the actual / arrival date of reservations.
 * Both hotel types have the lowest cancellation rate in around 1 month lead time duration, which around 19.67% for City Hotel, and 12.19% for Resort Hotel.
 * Both hotel types also have the highest cancellation rate in around 11-12 months lead time duration. City Hotel at 60.67% and Resort Hotel at 38.99%.
